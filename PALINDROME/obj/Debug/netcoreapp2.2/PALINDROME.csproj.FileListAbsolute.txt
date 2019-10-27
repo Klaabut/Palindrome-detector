@@ -1,0 +1,11 @@
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\bin\Debug\netcoreapp2.2\PALINDROME.deps.json
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\bin\Debug\netcoreapp2.2\PALINDROME.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\bin\Debug\netcoreapp2.2\PALINDROME.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\bin\Debug\netcoreapp2.2\PALINDROME.dll
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\bin\Debug\netcoreapp2.2\PALINDROME.pdb
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.dll
+C:\Users\Karl\Desktop\VS\PALINDROME\PALINDROME\obj\Debug\netcoreapp2.2\PALINDROME.pdb
